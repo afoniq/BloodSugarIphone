@@ -1,0 +1,278 @@
+TBloodPressureTracker
+v7
+r0
+t319722342.848434
+cCheck dependencies
+cProcessInfoPlistFile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/Info.plist BloodPressureTracker-Info.plist
+cCompileXIB /Users/shabda/Documents/BloodPressureTracker/MainWindow.xib
+cCompileXIB /Users/shabda/Documents/BloodPressureTracker/SecondView.xib
+cCompileXIB /Users/shabda/Documents/BloodPressureTracker/FirstView.xib
+cProcessPCH /var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch.gch BloodPressureTracker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/main.o /Users/shabda/Documents/BloodPressureTracker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTrackerAppDelegate.o /Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/FirstViewController.o /Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker normal i386
+cGenerateDSYMFile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app.dSYM /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker
+cTouch /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CF9D9400000000000000110
+t1291442496
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/shabda/Documents/BloodPressureTracker/BloodPressureTracker_Prefix.pch
+c000000004D5E5BDA00000000000000D1
+t1298029530
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.h
+c000000004D5E5BDA00000000000001FB
+t1298029530
+s507
+i<UIKit/UIKit.h>
+
+N/Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m
+c000000004D5E5BDA0000000000000C6E
+t1298029530
+s3182
+i"BloodPressureTrackerAppDelegate.h"
+
+N/Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.h
+c000000004D5E5BDA00000000000000F2
+t1298029530
+s242
+i<UIKit/UIKit.h>
+
+N/Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m
+c000000004D5E5BDA00000000000005BB
+t1298029530
+s1467
+i"FirstViewController.h"
+
+N/Users/shabda/Documents/BloodPressureTracker/FirstView.xib
+c000000004D5E5BDA00000000000049DE
+t1298029530
+s18910
+
+N/Users/shabda/Documents/BloodPressureTracker/MainWindow.xib
+c000000004D5E5BDA0000000000006462
+t1298029530
+s25698
+
+N/Users/shabda/Documents/BloodPressureTracker/SecondView.xib
+c000000004D5E5BDA00000000000049DC
+t1298029530
+s18908
+
+N/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTracker.LinkFileList
+c000000004D5E5BDE00000000000001F8
+t1298029534
+s504
+
+N/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTrackerAppDelegate.o
+t1298029542
+s55048
+
+N/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/FirstViewController.o
+t1298029542
+s37468
+
+N/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/main.o
+t1298029542
+s6316
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app
+t1298029542
+s272
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app.dSYM
+t1298029542
+s102
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker
+t1298029542
+s17612
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/FirstView.nib
+t1298029540
+s1743
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/Info.plist
+t1298029534
+s649
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/MainWindow.nib
+t1298029540
+s1707
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/PkgInfo
+t1298029534
+s8
+
+N/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/SecondView.nib
+t1298029540
+s1742
+
+N/Users/shabda/Documents/BloodPressureTracker/main.m
+c000000004D5E5BDA000000000000016D
+t1298029530
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch.gch
+t1298029542
+s15453392
+
+NBloodPressureTracker-Info.plist
+c000000004D5E5BDA000000000000038D
+t1298029530
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319722334#319722334#0(0"0(0#1#0"7161130589300618240#0"0#
+
+CCompileC build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTrackerAppDelegate.o /Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319722342.311239
+e319722342.495596
+r1
+xCompileC
+xbuild/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTrackerAppDelegate.o
+x/Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m319722342#319722342#0(0"0(0#0#86"/Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m8604348640#2302"    cd /Users/shabda/Documents/BloodPressureTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-generated-files.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-own-target-headers.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-all-target-headers.hmap -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-project-headers.hmap -F/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator -I/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources/i386 -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources -include /var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch -c /Users/shabda/Documents/BloodPressureTracker/Classes/BloodPressureTrackerAppDelegate.m -o /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTrackerAppDelegate.o0#
+
+CCompileC build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/FirstViewController.o /Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319722342.439807
+e319722342.544066
+r1
+xCompileC
+xbuild/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/FirstViewController.o
+x/Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m319722342#319722342#0(0"0(0#0#74"/Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m8599245536#2278"    cd /Users/shabda/Documents/BloodPressureTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-generated-files.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-own-target-headers.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-all-target-headers.hmap -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-project-headers.hmap -F/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator -I/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources/i386 -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources -include /var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch -c /Users/shabda/Documents/BloodPressureTracker/Classes/FirstViewController.m -o /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/main.o /Users/shabda/Documents/BloodPressureTracker/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319722342.309927
+e319722342.439678
+r1
+xCompileC
+xbuild/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/main.o
+x/Users/shabda/Documents/BloodPressureTracker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/shabda/Documents/BloodPressureTracker/main.m319722342#319722342#0(0"0(0#0#51"/Users/shabda/Documents/BloodPressureTracker/main.m8599277760#2240"    cd /Users/shabda/Documents/BloodPressureTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-generated-files.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-own-target-headers.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-all-target-headers.hmap -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-project-headers.hmap -F/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator -I/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources/i386 -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources -include /var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch -c /Users/shabda/Documents/BloodPressureTracker/main.m -o /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/shabda/Documents/BloodPressureTracker/FirstView.xib
+s319722340.271024
+e319722341.024603
+r1
+xCompileXIB
+x/Users/shabda/Documents/BloodPressureTracker/FirstView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@24"CompileXIB FirstView.xib319722340#319722341#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/shabda/Documents/BloodPressureTracker/FirstView.xib8602367584#599"    cd /Users/shabda/Documents/BloodPressureTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/FirstView.nib /Users/shabda/Documents/BloodPressureTracker/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/shabda/Documents/BloodPressureTracker/MainWindow.xib
+s319722334.831941
+e319722340.270868
+r1
+xCompileXIB
+x/Users/shabda/Documents/BloodPressureTracker/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib319722334#319722340#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#59"/Users/shabda/Documents/BloodPressureTracker/MainWindow.xib8604079456#601"    cd /Users/shabda/Documents/BloodPressureTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/MainWindow.nib /Users/shabda/Documents/BloodPressureTracker/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/shabda/Documents/BloodPressureTracker/SecondView.xib
+s319722334.834193
+e319722340.738597
+r1
+xCompileXIB
+x/Users/shabda/Documents/BloodPressureTracker/SecondView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB SecondView.xib319722334#319722340#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#59"/Users/shabda/Documents/BloodPressureTracker/SecondView.xib8603609024#601"    cd /Users/shabda/Documents/BloodPressureTracker    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/SecondView.nib /Users/shabda/Documents/BloodPressureTracker/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app.dSYM /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker
+s319722342.772882
+e319722342.827622
+r1
+xGenerateDSYMFile
+x/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app.dSYM
+x/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/BloodPressureTracker.app.dSYM build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker319722342#319722342#0(0"0(0#0#118"/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker8602617952#440"    cd /Users/shabda/Documents/BloodPressureTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker -o /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app.dSYM0#
+
+CLd /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker normal i386
+s319722342.544180
+e319722342.772737
+r1
+xLd
+x/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker
+xnormal
+xi386
+lSLF07#2@123"Link /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker319722342#319722342#0(0"0(0#0#0"8604357856#995"    cd /Users/shabda/Documents/BloodPressureTracker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator -F/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator -filelist /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/Objects-normal/i386/BloodPressureTracker.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/BloodPressureTracker0#
+
+CProcessInfoPlistFile /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/Info.plist BloodPressureTracker-Info.plist
+s319722334.787054
+e319722334.831815
+r1
+xProcessInfoPlistFile
+x/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/Info.plist
+xBloodPressureTracker-Info.plist
+lSLF07#2@39"Process BloodPressureTracker-Info.plist319722334#319722334#0(0"0(0#0#76"/Users/shabda/Documents/BloodPressureTracker/BloodPressureTracker-Info.plist23644331842863220#536"    cd /Users/shabda/Documents/BloodPressureTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BloodPressureTracker-Info.plist -genpkginfo /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app/Info.plist0#
+
+CProcessPCH /var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch.gch BloodPressureTracker_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319722341.024960
+e319722342.309750
+r1
+xProcessPCH
+x/var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch.gch
+xBloodPressureTracker_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile BloodPressureTracker_Prefix.pch319722341#319722342#0(0"0(0#0#76"/Users/shabda/Documents/BloodPressureTracker/BloodPressureTracker_Prefix.pch8599305568#2113"    cd /Users/shabda/Documents/BloodPressureTracker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-generated-files.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-own-target-headers.hmap -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-all-target-headers.hmap -iquote /Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/BloodPressureTracker-project-headers.hmap -F/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator -I/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources/i386 -I/Users/shabda/Documents/BloodPressureTracker/build/BloodPressureTracker.build/Debug-iphonesimulator/BloodPressureTracker.build/DerivedSources -c /Users/shabda/Documents/BloodPressureTracker/BloodPressureTracker_Prefix.pch -o /var/folders/I5/I57riozVGiCofytKFH1VcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BloodPressureTracker_Prefix-djwfwbdyzeonskayzvwqfoqrwsif/BloodPressureTracker_Prefix.pch.gch0#
+
+CTouch /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app
+s319722342.827725
+e319722342.848376
+r1
+xTouch
+x/Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app
+lSLF07#2@103"Touch /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app319722342#319722342#0(0"0(0#0#0"8602308480#303"    cd /Users/shabda/Documents/BloodPressureTracker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/shabda/Documents/BloodPressureTracker/build/Debug-iphonesimulator/BloodPressureTracker.app0#
+
